@@ -14,7 +14,19 @@
 This repository contains the design and implementation of a C++ based library search system that allows users to search, add and remove books efficiently using appropriate data structures and algorithms. It is suitable for use in libraries with a large collection of books, and useful for anyone looking to implement a library search system or improve their understanding of data structures and algorithms.
 
 #### Application Demonstration
-Screenshot 1: Search functionality demonstration
+
+
+| ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_1.png) | *Screenshot 1: Search functionality demonstration* |
+| --- | ----------- |
+
+| ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_2.png) | *Screenshot 2: Add functionality demonstration* |
+| --- | ----------- |
+
+| ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_3.png) | *Screenshot 3: Remove functionality demonstration* |
+| --- | ----------- |
+
+
+
 
 
 #### Data Structure Selection and Analysis
