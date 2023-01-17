@@ -1,7 +1,5 @@
 # Library-Search-System
 
-This repository contains the design and implementation of a C++ based library search system that allows users to search, add and remove books efficiently using appropriate data structures and algorithms. It is suitable for use in libraries with a large collection of books, and useful for anyone looking to implement a library search system or improve their understanding of data structures and algorithms.
-
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Application Demonstration](#application-demonstration)
@@ -13,7 +11,11 @@ This repository contains the design and implementation of a C++ based library se
 
 
 #### Introduction
+This repository contains the design and implementation of a C++ based library search system that allows users to search, add and remove books efficiently using appropriate data structures and algorithms. It is suitable for use in libraries with a large collection of books, and useful for anyone looking to implement a library search system or improve their understanding of data structures and algorithms.
+
 #### Application Demonstration
+
+
 #### Data Structure Selection and Analysis
 #### Testing Approach
 #### Conclusions
