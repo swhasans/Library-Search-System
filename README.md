@@ -36,7 +36,7 @@ In comparison to a BST implementation, the code is simpler and search times are 
 #### Unit Testing
 The testing process for this project involves testing individual program elements separately, such as individual functions or methods inside an object. The unit testing was automated, and the catch2 test automation framework was used to write and run the program tests. The setup part consists of initializing the system with the test case inputs and expected outputs, and the objects or methods to be tested are called. Finally, the assertion part compares the result of the input to the expected results. If the assert value is true, there are no errors.
 
-#### Test Cases (Unit Testing)
+#### Test Cases
 
 | Test_coreFun | Test_fileActions | Test_hashtableDeleted |
 | --- | ----------- | ----------- |
