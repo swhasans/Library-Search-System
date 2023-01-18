@@ -25,7 +25,8 @@ OR
 - An alternative method for compiling and running the program is using [repl.it](https://repl.it/), which is a collaborative online IDE.
 
 #### Instructions for Running the Program
-- Run the following command in your terminal or command prompt:
+1. Clone the repository or download the files.
+2. Run the following command in your terminal or command prompt:
 ```bash
 make
 ```
