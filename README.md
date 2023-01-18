@@ -48,7 +48,7 @@ The testing process for this project involves testing individual program element
 
 | Test_coreFun | Test_fileActions | Test_hashtableDeleted |
 | --- | ----------- | ----------- |
-| This test verifies the functionality of adding, removing, and searching books within the library system. | This test verifies the functionality of reading, adding, and removing books from the books.txt file within the library system. | Test_hashtableDeleted | This test verifies that the hash table and its contents are properly deleted when the program is closed. |
+| This test verifies the functionality of adding, removing, and searching books within the library system. | This test verifies the functionality of reading, adding, and removing books from the books.txt file within the library system. | This test verifies that the hash table and its contents are properly deleted when the program is closed. |
 
 
 
