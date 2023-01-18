@@ -40,5 +40,21 @@ The Hash Table is implemented using the Separate Chaining method, where entries 
 In comparison to a BST implementation, the code is simpler and search times are optimal (constant). The use of an efficient hash function can also satisfy the uniform hashing assumption. Hashing can be faster than a Red-Black BST, depending on the type of key. For typical key types, hashing will be significantly faster because it uses only a constant number of operations.
 
 #### Testing Approach
+
+### Unit Testing
+The testing process for this project involves testing individual program elements separately, such as individual functions or methods inside an object. The unit testing was automated, and the catch2 test automation framework was used to write and run the program tests. The setup part consists of initializing the system with the test case inputs and expected outputs, and the objects or methods to be tested are called. Finally, the assertion part compares the result of the input to the expected results. If the assert value is true, there are no errors.
+
+### Test Cases
+
+| Test_coreFun | This test verifies the functionality of adding, removing, and searching books within the library system. |
+| --- | ----------- |
+
+| Test_fileActions | This test verifies the functionality of reading, adding, and removing books from the books.txt file within the library system. |
+| --- | ----------- |
+
+| Test_hashtableDeleted | This test verifies that the hash table and its contents are properly deleted when the program is closed. |
+| --- | ----------- |
+
 #### Conclusions
+
 #### Limitations and Critical Reflection
