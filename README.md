@@ -3,16 +3,36 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Application Demonstration](#application-demonstration)
-3. [Data Structure Selection and Analysis](#data-structure-selection-and-analysis)
-4. [Testing Approach](#testing-approach)
-5. [Limitations](#limitations)
-6. [Recommendations for future](#Recommendations-for-future)
+3. [Getting Started](#getting-started)
+4. [Data Structure Selection and Analysis](#data-structure-selection-and-analysis)
+5. [Testing Approach](#testing-approach)
+6. [Limitations](#limitations)
+7. [Recommendations for future](#Recommendations-for-future)
 
 ### Introduction
 This repository contains the design and implementation of a C++ based library search system that allows users to search, add and remove books efficiently using appropriate data structures and algorithms. It is suitable for use in libraries with a large collection of books, and useful for anyone looking to implement a library search system or improve their understanding of data structures and algorithms.
 
-### Application Demonstration
+### Getting Started
 
+#### Prerequisites
+- A C++ compiler (such as GCC or Clang)
+- A text editor (such as Visual Studio Code)
+- MinGW (Minimalist GNU for Windows) or enable the Windows Subsystem for Linux (WSL) and install a Linux distribution of your choice to enable the use of make files.
+- GNU Make
+
+OR
+
+- An alternative method for compiling and running the program is using [repl.it](https://repl.it/), which is a collaborative online IDE.
+
+#### Instructions for Running the Program
+- Run the following command in your terminal or command prompt:
+```bash
+make
+```
+> **Note**
+> : Make sure that you have enabled the use of make files before running the above command.
+
+### Application Demonstration
 | ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_1.png) | ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_2.png) | ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_3.png) |
 | --- | ----------- | ----------- |
 | *Screenshot 1: Search functionality demonstration* | *Screenshot 2: Add functionality demonstration* | *Screenshot 3: Remove functionality demonstration* |
