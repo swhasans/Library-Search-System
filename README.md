@@ -15,15 +15,9 @@ This repository contains the design and implementation of a C++ based library se
 
 ### Application Demonstration
 
-
-| ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_1.png) | *Screenshot 1: Search functionality demonstration* |
-| --- | ----------- |
-
-| ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_2.png) | *Screenshot 2: Add functionality demonstration* |
-| --- | ----------- |
-
-| ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_3.png) | *Screenshot 3: Remove functionality demonstration* |
-| --- | ----------- |
+| ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_1.png) | ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_2.png) | ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_3.png) |
+| --- | ----------- | ----------- |
+| *Screenshot 1: Search functionality demonstration* | *Screenshot 2: Add functionality demonstration* | *Screenshot 3: Remove functionality demonstration* |
 
 ### Data Structure Selection and Analysis
 
@@ -50,16 +44,6 @@ The testing process for this project involves testing individual program element
 | --- | ----------- | ----------- |
 | This test verifies the functionality of adding, removing, and searching books within the library system. | This test verifies the functionality of reading, adding, and removing books from the books.txt file within the library system. | This test verifies that the hash table and its contents are properly deleted when the program is closed. |
 
-
-
-<!-- | Test_coreFun | This test verifies the functionality of adding, removing, and searching books within the library system. |
-| --- | ----------- |
-
-| Test_fileActions | This test verifies the functionality of reading, adding, and removing books from the books.txt file within the library system. |
-| --- | ----------- |
-
-| Test_hashtableDeleted | This test verifies that the hash table and its contents are properly deleted when the program is closed. |
-| --- | ----------- | -->
 
 ### Conclusions
 
