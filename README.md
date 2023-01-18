@@ -5,10 +5,8 @@
 2. [Application Demonstration](#application-demonstration)
 3. [Data Structure Selection and Analysis](#data-structure-selection-and-analysis)
 4. [Testing Approach](#testing-approach)
-5. [Conclusions](#conclusions)
-6. [Limitations and Critical Reflection](#limitations-and-critical-reflection)
-
-
+5. [Limitations](#limitations)
+6. [Recommendations for future](#Recommendations-for-future)
 
 ### Introduction
 This repository contains the design and implementation of a C++ based library search system that allows users to search, add and remove books efficiently using appropriate data structures and algorithms. It is suitable for use in libraries with a large collection of books, and useful for anyone looking to implement a library search system or improve their understanding of data structures and algorithms.
@@ -44,7 +42,12 @@ The testing process for this project involves testing individual program element
 | --- | ----------- | ----------- |
 | This test verifies the functionality of adding, removing, and searching books within the library system. | This test verifies the functionality of reading, adding, and removing books from the books.txt file within the library system. | This test verifies that the hash table and its contents are properly deleted when the program is closed. |
 
+### Limitations
+- The user must enter the complete book name for a successful search, which can be inconvenient. 
+- The book details cannot be modified or changed. 
+- The title must be entered exactly when searching or removing a book.
 
-### Conclusions
-
-### Limitations and Critical Reflection
+### Recommendations for future
+- Improve the user experience by implementing a GUI based system and incorporating databases for easier retrieval and storage, as well as increased security.
+- Implement barcode scanning for book identification.
+- Improve unit testing methods for increased findability, accessibility, reusability, and interoperability.
