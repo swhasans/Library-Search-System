@@ -2,8 +2,8 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Application Demonstration](#application-demonstration)
-3. [Getting Started](#getting-started)
+2. [Getting Started](#getting-started)
+3. [Application Demonstration](#application-demonstration)
 4. [Data Structure Selection and Analysis](#data-structure-selection-and-analysis)
 5. [Testing Approach](#testing-approach)
 6. [Limitations](#limitations)
