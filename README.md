@@ -63,6 +63,19 @@ The testing process for this project involves testing individual program element
 | --- | ----------- | ----------- |
 | This test verifies the functionality of adding, removing, and searching books within the library system. | This test verifies the functionality of reading, adding, and removing books from the books.txt file within the library system. | This test verifies that the hash table and its contents are properly deleted when the program is closed. |
 
+##### Instructions for Running the test program
+Run the following commands in your terminal or command prompt:
+```bash
+g++ -o <Assign-a-name-of-your-choice-to-the-compiled-program> testCase.cpp
+./<Assign-a-name-of-your-choice-to-the-compiled-program>
+```
+
+> **Note**
+
+> - Do not include the greater-than or less-than signs when specifying the desired program name.
+
+> - Ensure that the catch.hpp file is present in the designated folder.
+
 ### Limitations
 - The user must enter the complete book name for a successful search, which can be inconvenient. 
 - The book details cannot be modified or changed. 
