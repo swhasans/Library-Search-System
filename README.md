@@ -30,8 +30,14 @@ OR
 ```bash
 make
 ```
+
+#### Getting rid of object and executables
+Before running the `make` command again after making updates to the program's source code, use the following command to clean object files and executables:
+```bash
+make clean
+```
 > **Note**
-> : Make sure that you have enabled the use of make files before running the above command.
+> : Make sure that you have enabled the use of make files before running the above commands.
 
 ### Application Demonstration
 | ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_1.png) | ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_2.png) | ![](https://github.com/Deadrep/Library-Search-System/blob/main/SC_3.png) |
